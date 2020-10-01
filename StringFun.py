@@ -2,7 +2,7 @@
 #Date: Jan 6th, 2020
 #Q1
 
-
+print("\t\t\t\t StringFun")
 strSentence = (str)(input("Enter something: ")) #Prompts user to enter a sentence
 print("It has:",len(strSentence), "letters")    #Counts the index of the sentence entered by user
                                          #and outputs result
